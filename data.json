@@ -1,6 +1,6 @@
 {
   "_id": "6693a0acd167eed3f81d5cf2",
-  "resume": "krishna23ppwwokhelloforumlngotiamoutonfuckm",
+  "resume": "yas",
   "username": "SarthakGoyal",
   "editorial": [
     {
@@ -32,32 +32,32 @@
       "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986715/Frame_5167_1_znxvc5.svg",
       "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986772/image_88_fwhxcj.svg",
       "color": "#ECA2A3",
-      "description": "Designed the product and website (wall.app) from 0 to 1, which created a waitlist of over  500K users within seven days of launch.4509Designed the complete user interfaces for the DotNames, DotTaiko, DotShm, DotZeta, DotOmni, and DotSei platforms,  adhering to design principles using tools Figma, and  Spline.4509Built a protocol that have helped the user to earn through web3 identity.4509Designed social media creatives specifically for Twitter, helping the page grow from 100 to  150k followers.",
+      "description": "/pointDesigned the product and website (wall.app) from 0 to 1, which created a waitlist of over 500K users within seven days of launch./breakDesigned the complete user experiences & interfaces for the DotNames, DotShm, DotTaiko, DotZeta, DotOmni and DotSei platforms, adhering to design principles. I created wireframes, prototypes, 3D structures, and high\u0002fidelity mockups using tools like Figma, and Spline./breakBuilt a protocol that have helped the user to earn through web3 identity./breakDesigned social media creatives specifically for Twitter, helping the page grow from 100 to 140k followers.",
       "projects": [
         {
           "title": "https://www.wall.app/",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/1717122476373_ndnspz.jpg",
-          "_id": "66a9345a3e5191c0138079f9"
+          "_id": "66a936783e5191c013807b77"
         },
         {
           "title": "https://www.dotnames.me/",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotNames_t9yexy.jpg",
-          "_id": "66a934a13e5191c013807a59"
+          "_id": "66a936783e5191c013807b78"
         },
         {
           "title": "https://dotshm.me/",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotShm_yexzkf.jpg",
-          "_id": "66a934c83e5191c013807a73"
+          "_id": "66a936783e5191c013807b79"
         },
         {
           "title": "https://app.galxe.com/quest/OmniNetwork/GCcaCUP8BG",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281825/Omni_pfrdl9.jpg",
-          "_id": "66a9357a3e5191c013807aa7"
+          "_id": "66a936783e5191c013807b7a"
         },
         {
           "title": "https://dottaiko.me/",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281825/Taiko_cog1ve.jpg",
-          "_id": "66a9359e3e5191c013807adb"
+          "_id": "66a936783e5191c013807b7b"
         }
       ],
       "_id": "66942f19b18729f75ccd6478",
@@ -74,19 +74,19 @@
       "description": "I designed the entire Learners24 Android app experience and interfaces, converting  extensive textual content into compelling visuals to revolutionize the educational  ecosystem and enhance students learning.4509The app encompasses features like daily information feed to educate users, a “Set  Reminder”, a “Weekly Planner” and a “Notes” Feature.4509Designed the entire design system for Waitlist Website, Main Organizational Website.",
       "projects": [
         {
-          "title": "Education App Design | UX/UI",
+          "title": "https://www.behance.net/gallery/194630909/Education-App-Design-UXUI",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281965/1713802475465_ha1dil.jpg",
-          "_id": "66a7f00946a4e338ccda4c10"
+          "_id": "66a9373c3e5191c013807c36"
         },
         {
-          "title": "Learners24 - Apps on Google Play",
+          "title": "https://play.google.com/store/apps/details?id=com.questta.questta_app&pcampaignid=web_share",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281964/1713013932769_koh8jb.jpg",
-          "_id": "66a7f01e46a4e338ccda4c2a"
+          "_id": "66a9377d3e5191c013807c81"
         },
         {
-          "title": "Ed-Tech Startup | Waitlist Website | UI/UX Design",
+          "title": "https://www.behance.net/gallery/193667029/Ed-Tech-Startup-Waitlist-Website-UIUX-Design",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281965/1713802415127_xichqy.jpg",
-          "_id": "66a7f03046a4e338ccda4c45"
+          "_id": "66a937af48cbe1c9ec70a5f6"
         }
       ],
       "_id": "66942f19b18729f75ccd647a",
@@ -179,5 +179,5 @@
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_2_imowit.jpg",
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_3_qo2rcp.jpg"
   ],
-  "__v": 62
+  "__v": 70
 }
