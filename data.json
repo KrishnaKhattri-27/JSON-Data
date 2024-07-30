@@ -19,14 +19,8 @@
       "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720985895/Frame_5167_k9jg9e.svg",
       "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720985929/Frame_5166_a6jhbd.svg",
       "color": "#C2AAF4",
-      "description": "Intripid simplifies travel planning with an AI-driven platform that streamlines itinerary creation, bookings, and management.4509Architected and implemented a comprehensive Design System.4509Designed an intuitive authentication flow for sign-in/sign-up, optimizing user journey thorough heuristic analysis and crafted the responsive interfaces enhancing user experience and increasing successful registrations.4509Crafted intuitive interfaces for Partner Onboarding portals.4509Iteratively designed Profile Dashboard and Trip Builder interfaces, progressing from low-fidelity wireframes to high-fidelity prototypes.",
-      "projects": [
-        {
-          "title": "https://meet.google.com/landing",
-          "url": "https://res.cloudinary.com/dbrhoa186/image/upload/v1711642376/Spline_zv39p7.svg",
-          "_id": "66a884722aafa56618ba373d"
-        }
-      ],
+      "description": "/paraIntripid simplifies travel planning with an AI-driven platform that streamlines itinerary creation, bookings, and management./pointsArchitected and implemented a comprehensive Design System./breakDesigned an intuitive authentication flow for sign-in/sign-up, optimizing user journey thorough heuristic analysis and crafted the responsive interfaces enhancing user experience and increasing successful registrations./breakCrafted intuitive interfaces for Partner Onboarding portals./breakIteratively designed Profile Dashboard and Trip Builder interfaces, progressing from low-fidelity wireframes to high-fidelity prototypes.",
+      "projects": [],
       "_id": "66942aa6b18729f75ccd6466",
       "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_z4npxt.svg",
       "textColor": "#E45729"
@@ -40,11 +34,6 @@
       "color": "#ECA2A3",
       "description": "Designed the product and website (wall.app) from 0 to 1, which created a waitlist of over  500K users within seven days of launch.4509Designed the complete user interfaces for the DotNames, DotTaiko, DotShm, DotZeta, DotOmni, and DotSei platforms,  adhering to design principles using tools Figma, and  Spline.4509Built a protocol that have helped the user to earn through web3 identity.4509Designed social media creatives specifically for Twitter, helping the page grow from 100 to  150k followers.",
       "projects": [
-        {
-          "title": "Wall.app - REKTMETER OUT NOW!",
-          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/1717122476373_ndnspz.jpg",
-          "_id": "66a7ee4c46a4e338ccda4b1a"
-        },
         {
           "title": "DotNames Domains",
           "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotNames_t9yexy.jpg",
@@ -185,5 +174,5 @@
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_2_imowit.jpg",
     "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_3_qo2rcp.jpg"
   ],
-  "__v": 49
+  "__v": 51
 }
