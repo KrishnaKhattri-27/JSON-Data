@@ -1,0 +1,189 @@
+{
+  "_id": "6693a0acd167eed3f81d5cf2",
+  "resume": "https://drive.google.com/file/d/1vftjs1R1z2ffKGiG0o_YvKeJtWVptCxJ/view?usp=sharing",
+  "username": "SarthakGoyal",
+  "editorial": [
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722105729/1_U53EQe-XI0LErP-rWy4D-w_1_r1qy1y.webp",
+      "title": "Designing Seamless Payments",
+      "content": "UI/UX Case Study; Enhancing User Experience on X (Formerly Twitter)",
+      "link": "https://uixchef.medium.com/ui-ux-case-study-designing-seamless-payments-enhancing-user-experience-on-x-formerly-twitter-2ad18405eb74",
+      "_id": "66a7f12f46a4e338ccda4d65"
+    }
+  ],
+  "experience": [
+    {
+      "companyName": "Intripid",
+      "role": "Product Designer",
+      "period": "May 2024 - Present | Full-Time",
+      "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720985895/Frame_5167_k9jg9e.svg",
+      "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720985929/Frame_5166_a6jhbd.svg",
+      "color": "#C2AAF4",
+      "description": "Intripid simplifies travel planning with an AI-driven platform that streamlines itinerary creation, bookings, and management.4509Architected and implemented a comprehensive Design System.4509Designed an intuitive authentication flow for sign-in/sign-up, optimizing user journey thorough heuristic analysis and crafted the responsive interfaces enhancing user experience and increasing successful registrations.4509Crafted intuitive interfaces for Partner Onboarding portals.4509Iteratively designed Profile Dashboard and Trip Builder interfaces, progressing from low-fidelity wireframes to high-fidelity prototypes.",
+      "projects": [
+        {
+          "title": "https://meet.google.com/landing",
+          "url": "https://res.cloudinary.com/dbrhoa186/image/upload/v1711642376/Spline_zv39p7.svg",
+          "_id": "66a884722aafa56618ba373d"
+        }
+      ],
+      "_id": "66942aa6b18729f75ccd6466",
+      "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_z4npxt.svg",
+      "textColor": "#E45729"
+    },
+    {
+      "companyName": "DotNames",
+      "role": "Product Designer",
+      "period": "Dec 2022 - May 2024 | Full-Time",
+      "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986715/Frame_5167_1_znxvc5.svg",
+      "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986772/image_88_fwhxcj.svg",
+      "color": "#ECA2A3",
+      "description": "Designed the product and website (wall.app) from 0 to 1, which created a waitlist of over  500K users within seven days of launch.4509Designed the complete user interfaces for the DotNames, DotTaiko, DotShm, DotZeta, DotOmni, and DotSei platforms,  adhering to design principles using tools Figma, and  Spline.4509Built a protocol that have helped the user to earn through web3 identity.4509Designed social media creatives specifically for Twitter, helping the page grow from 100 to  150k followers.",
+      "projects": [
+        {
+          "title": "Wall.app - REKTMETER OUT NOW!",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/1717122476373_ndnspz.jpg",
+          "_id": "66a7ee4c46a4e338ccda4b1a"
+        },
+        {
+          "title": "DotNames Domains",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotNames_t9yexy.jpg",
+          "_id": "66a7eeb046a4e338ccda4b56"
+        },
+        {
+          "title": "DotShm | Naming Service on Sharedum",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281416/DotShm_yexzkf.jpg",
+          "_id": "66a7eed746a4e338ccda4b81"
+        },
+        {
+          "title": "Omni Overdrive - Mission DotNames Domains by Omni Networks | Galxe",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281825/Omni_pfrdl9.jpg",
+          "_id": "66a7ef6b46a4e338ccda4bae"
+        },
+        {
+          "title": "DotTaiko Domains | Web3 domains on Taiko",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281825/Taiko_cog1ve.jpg",
+          "_id": "66a7ef7e46a4e338ccda4bc7"
+        }
+      ],
+      "_id": "66942f19b18729f75ccd6478",
+      "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_1_ykqlbw.svg",
+      "textColor": "#075FF4"
+    },
+    {
+      "companyName": "Questta Learrning",
+      "role": "Head Designer",
+      "period": "Oct 2023 - Jan 2024 | Contractual",
+      "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986929/Frame_5167_2_ozoybf.svg",
+      "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720986991/Frame_5166_1_lovl7e.svg",
+      "color": "#404C34",
+      "description": "I designed the entire Learners24 Android app experience and interfaces, converting  extensive textual content into compelling visuals to revolutionize the educational  ecosystem and enhance students learning.4509The app encompasses features like daily information feed to educate users, a “Set  Reminder”, a “Weekly Planner” and a “Notes” Feature.4509Designed the entire design system for Waitlist Website, Main Organizational Website.",
+      "projects": [
+        {
+          "title": "Education App Design | UX/UI",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281965/1713802475465_ha1dil.jpg",
+          "_id": "66a7f00946a4e338ccda4c10"
+        },
+        {
+          "title": "Learners24 - Apps on Google Play",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281964/1713013932769_koh8jb.jpg",
+          "_id": "66a7f01e46a4e338ccda4c2a"
+        },
+        {
+          "title": "Ed-Tech Startup | Waitlist Website | UI/UX Design",
+          "url": "https://res.cloudinary.com/doox75ljx/image/upload/v1722281965/1713802415127_xichqy.jpg",
+          "_id": "66a7f03046a4e338ccda4c45"
+        }
+      ],
+      "_id": "66942f19b18729f75ccd647a",
+      "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_2_jpz6u3.svg",
+      "textColor": "#C4ACF6"
+    },
+    {
+      "companyName": "Ernst & Young (EY)",
+      "role": "UI/UX Designer",
+      "period": "Apr 2021 - Dec 2022 | Full-Time",
+      "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720987153/Frame_5167_3_juu6ek.svg",
+      "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720987196/Frame_5166_2_gmemcl.svg",
+      "color": "#D4F573",
+      "description": "I revamped the merchant dashboard to deliver a more user-centric experience on mobile and on desktop. With this project, I built an internal design system & established structured processes to integrate design thinking in the product development cycle. The new dashboard increased user engagement on desktop by 100%. 4509I was also responsible for designing the Internal Sales Tool. I designed the whole feature from a mobile consumer's point of view. The product became one of a kind right mix of capabilities, technology, data and relationships to help accelerate speed to market, reduce costs and spark innovation in tax calculation. 4509I built the new design language at Capital Consulting & Strategy Program and developed assets for faster internal design iterations and production. 4509Created detailed customer journey maps for key insurance products, identifying critical touchpoints and opportunities for experience enhancement, which informed the redesign of the customer onboarding process.",
+      "projects": [],
+      "_id": "66942f19b18729f75ccd647c",
+      "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_3_cewiew.svg",
+      "textColor": "#404C34"
+    },
+    {
+      "companyName": "SportsKeeda",
+      "role": "Graphic Designer",
+      "period": "Oct 2020 - Apr 2021 | Full-Time",
+      "logo": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720987322/Frame_5167_4_wvjwg9.svg",
+      "pattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1720987360/Frame_5166_3_bkdlup.svg",
+      "color": "#E1582C",
+      "description": "Developed visually compelling thumbnails and incorporated branding elements for video content across various sports categories which adhere to the SportsKeeda visual style guide.4509Crafted custom graphics, overlays, and animations for socials to elevate the production quality.",
+      "projects": [],
+      "_id": "66942f19b18729f75ccd647e",
+      "mobilePattern": "https://res.cloudinary.com/dbrhoa186/image/upload/v1721110573/Frame_5166_4_vvgonm.svg",
+      "textColor": "#F19B9E"
+    }
+  ],
+  "protolab": [
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1721759070/Desktop_02_jji7mm.png",
+      "title": "Pride Animation (Made in Figma)",
+      "link": "https://www.figma.com/proto/n8ZwQKVbLk6V6kSumCpt9z/Pride-animations?page-id=0%3A1&node-id=1-219&viewport=797%2C615%2C0.05&t=GLOjUqDQwQ7EUQtS-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A751",
+      "_id": "669ff56fc9d8139684a62906"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1721759292/Slide_2_muxq2x.png",
+      "title": "Animated Letters (Made in Figma)",
+      "link": "https://www.figma.com/proto/iU2vXtKvaOk2VC0BwAEc8t/Animated-Letters?page-id=0%3A1&node-id=1-48&viewport=388%2C303%2C0.14&t=JfCVMuMiCdZV46Sy-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A2",
+      "_id": "669ff648c9d8139684a62934"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1721760089/Slide_01_lxxlas.png",
+      "title": "Animated Shapes (Made in Figma)",
+      "link": "https://www.figma.com/proto/r6o5qtpyPLoW6DGxGcyW56/Animated-Shapes?page-id=0%3A1&node-id=1-8&viewport=388%2C302%2C0.18&t=7EbWDDGAKxvvqvaI-1&scaling=scale-down-width&content-scaling=fixed",
+      "_id": "669ff97cc9d8139684a631a0"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722110120/chain-links-min_vhaqii.gif",
+      "title": "Chain Links",
+      "link": "https://my.spline.design/chainlinks-83c2ff2947ac71252e8ec8248d0ee8c2/",
+      "_id": "66a550bbfade4004f442e9ee"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722195113/metalic-apple-logo-animation_eunyyf.gif",
+      "title": "Metalic-Heart Animation",
+      "link": "https://my.spline.design/metalicapplelogoanimation-f8effa0c7cd849883ddbd880d8de9283/",
+      "_id": "66a69d0536635ca9a276c2ba"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722195718/metallic-bear_p8kbfe.gif",
+      "title": "Metallic-Bear Animation",
+      "link": "https://my.spline.design/metallicbear-deb8e5e45f1c274c2e9d3dd706d44624/",
+      "_id": "66a69f1036635ca9a276c432"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722196535/electric-fan_i0wnid.gif",
+      "title": "Electric Fan",
+      "link": "https://my.spline.design/electricfan-bdfb63b6a5b4adbc520999dddeab2cf7/",
+      "_id": "66a6a2b336635ca9a276c556"
+    },
+    {
+      "image": "https://res.cloudinary.com/doox75ljx/image/upload/v1722196967/easy-liquid-animation_1_grdfbt.gif",
+      "title": "Liquid Animation",
+      "link": "https://my.spline.design/easyliquidanimation-ea86611cdd9d9f44970eb54839e13b5f/",
+      "_id": "66a6a40a36635ca9a276c655"
+    }
+  ],
+  "personalImages": [
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989006/PHOTO-2024-07-15-01-47-46_7_hqpnm8.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989006/PHOTO-2024-07-15-01-47-46_opetdk.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989005/PHOTO-2024-07-15-01-47-46_6_aruu4a.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989005/PHOTO-2024-07-15-01-47-46_5_s7tgjj.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_4_vqytnu.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_2_imowit.jpg",
+    "https://res.cloudinary.com/dbrhoa186/image/upload/v1720989004/PHOTO-2024-07-15-01-47-46_3_qo2rcp.jpg"
+  ],
+  "__v": 49
+}
